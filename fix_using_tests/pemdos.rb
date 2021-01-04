@@ -8,7 +8,6 @@ def snake_it_up(string)
   if string[0] == "s"
    ten_s = ssssssssss  
    new_word = ten_s + string
-   
   end
-  return new_word
+   new_word
 end
